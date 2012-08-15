@@ -1,0 +1,3 @@
+[submodule "base/modules/foreman"]
+	path = base/modules/foreman
+	url = git://github.com/vStone/puppet-foreman.git
